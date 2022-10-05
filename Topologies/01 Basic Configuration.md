@@ -9,8 +9,8 @@ Basic configuration introduces a trainee to various Cisco IOS commands that are 
 		Fast Ethernet
     	Gigabit Ethernet
     	Serial
-	    Clock rate
-		Logical -Loopback
+		Clock rate
+	Logical -Loopback
 
 ## Logon Banners
 
