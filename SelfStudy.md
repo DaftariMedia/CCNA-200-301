@@ -4,7 +4,7 @@
 	STP
 	Etherchannel
 
-## Exploring Layer 3 Redundancy (FHRP)
+### Exploring Layer 3 Redundancy (FHRP)
 	HSRP
 	VRRP
 	GLBP
@@ -34,12 +34,12 @@
 	Wireless Confidentiality(Privacy) and Integrity Methods
 		AES, TKIP, CCMP, GCMP
 	
-# Introducing Architectures and Virtualization
+## Introducing Architectures and Virtualization
 	LAN Architectures
 	WAN Architectures
 	Cloud Architectures
 
-Examining the Security Threat Landscape
+## Examining the Security Threat Landscape
 	Threats
 	Vulnerabilities
 	Exploits
@@ -47,13 +47,13 @@ Examining the Security Threat Landscape
 	Security programs
 	
 	
-# Implementing Threat Defense Technologies
+## Implementing Threat Defense Technologies
 	DHCP Security
 	Switch Port Security
 	AAA
 	SSH
 	
-# Automation
+## Automation
     Data Formats
         JSON
         YAML
