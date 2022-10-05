@@ -1,10 +1,10 @@
 Basic configuration introduces a trainee to various Cisco IOS commands that are a starting point to learning CCNA. They include;
  
- IOS modes
+ ## IOS modes
  
- Configuring device hostname
+## Configuring device hostname
  
- Interfaces
+## Interfaces
 	  Physical
 		Fast Ethernet
     Gigabit Ethernet
@@ -12,14 +12,14 @@ Basic configuration introduces a trainee to various Cisco IOS commands that are 
 	    Clock rate
 		Logical -Loopback
 
-Logon Banners
+## Logon Banners
 
-Disabling look-up
+## Disabling look-up
 
-Speed and Duplex
+## Speed and Duplex
 
-Power over Ethernet
+## Power over Ethernet
 
-Device Discovery
+## Device Discovery
   CDP
    LLDP
