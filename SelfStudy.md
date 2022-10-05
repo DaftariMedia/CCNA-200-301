@@ -1,19 +1,19 @@
-#CCNA Self-Study
+## CCNA Self-Study
 
-Building Redundant Switched Topologies
+# Building Redundant Switched Topologies
 	STP
 	Etherchannel
 
-Exploring Layer 3 Redundancy (FHRP)
+# Exploring Layer 3 Redundancy (FHRP)
 	HSRP
 	VRRP
 	GLBP
 
-Introducing WAN Technologies: https://www.bsimplify.com/types-wan-technologies-data-networking/
+# Introducing WAN Technologies: https://www.bsimplify.com/types-wan-technologies-data-networking/
 	Remote Access VPN
 	Site-to-Site VPN
 	
-Introducing QoS
+# Introducing QoS
 	Classification
 	Marking
 	Queuing
@@ -21,7 +21,7 @@ Introducing QoS
 	Policing
 	Shaping
 
-Explaining Wireless Fundamentals
+# Explaining Wireless Fundamentals
 	Wireless Components
 	Wireless Topologies
 	WiFi Standards
@@ -34,7 +34,7 @@ Explaining Wireless Fundamentals
 	Wireless Confidentiality(Privacy) and Integrity Methods
 		AES, TKIP, CCMP, GCMP
 	
-Introducing Architectures and Virtualization
+# Introducing Architectures and Virtualization
 	LAN Architectures
 	WAN Architectures
 	Cloud Architectures
@@ -47,13 +47,13 @@ Examining the Security Threat Landscape
 	Security programs
 	
 	
-Implementing Threat Defense Technologies
+# Implementing Threat Defense Technologies
 	DHCP Security
 	Switch Port Security
 	AAA
 	SSH
 	
-Automation
+# Automation
     Data Formats
         JSON
         YAML
