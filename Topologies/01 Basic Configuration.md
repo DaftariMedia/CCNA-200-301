@@ -5,10 +5,10 @@ Basic configuration introduces a trainee to various Cisco IOS commands that are 
 ## Configuring device hostname
  
 ## Interfaces
-	  Physical
+	Physical
 		Fast Ethernet
-    Gigabit Ethernet
-    Serial
+    	Gigabit Ethernet
+    	Serial
 	    Clock rate
 		Logical -Loopback
 
@@ -21,5 +21,5 @@ Basic configuration introduces a trainee to various Cisco IOS commands that are 
 ## Power over Ethernet
 
 ## Device Discovery
-  CDP
-   LLDP
+  	CDP
+  	LLDP
