@@ -70,5 +70,4 @@ Automation
         Cisco DNA
             https://sandboxdnac.cisco.com/
                 Username: devnetuser
-                Password: devnetuser
-    
+                Password: devnetuser    
